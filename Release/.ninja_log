@@ -1,0 +1,14 @@
+# ninja log v6
+14	144	7617541961311268	C:/Users/Alex/Documents/TLabManager/build/Desktop_Qt_6_8_2_MinGW_64_bit-Release/CMakeFiles/cmake.verify_globs	c5e946b1eaff6896
+151	1437	7617541974543011	TLabManager_autogen/timestamp	ad0dec6e69d2e0c
+151	1437	7617541974543011	TLabManager_autogen/mocs_compilation.cpp	ad0dec6e69d2e0c
+151	1437	7617541974543011	C:/Users/Alex/Documents/TLabManager/build/Desktop_Qt_6_8_2_MinGW_64_bit-Release/TLabManager_autogen/timestamp	ad0dec6e69d2e0c
+151	1437	7617541974543011	C:/Users/Alex/Documents/TLabManager/build/Desktop_Qt_6_8_2_MinGW_64_bit-Release/TLabManager_autogen/mocs_compilation.cpp	ad0dec6e69d2e0c
+1446	1552	7617541976606946	TLabManager_autogen/EWIEGA46WW/qrc_resources.cpp	3e983bf77adbf3c7
+1446	1552	7617541976606946	C:/Users/Alex/Documents/TLabManager/build/Desktop_Qt_6_8_2_MinGW_64_bit-Release/TLabManager_autogen/EWIEGA46WW/qrc_resources.cpp	3e983bf77adbf3c7
+1568	1728	7617541976846304	CMakeFiles/TLabManager.dir/TLabManager_autogen/EWIEGA46WW/qrc_resources.cpp.obj	65b822c3c7d1fb59
+1552	4571	7617541976687057	CMakeFiles/TLabManager.dir/TLabManager_autogen/mocs_compilation.cpp.obj	14e587097330756
+1555	4595	7617541976726633	CMakeFiles/TLabManager.dir/main.cpp.obj	64ea98efbf7cb229
+1563	4825	7617541976806409	CMakeFiles/TLabManager.dir/addsamplewindow.cpp.obj	e470bfc75de85bac
+1559	5751	7617541976756544	CMakeFiles/TLabManager.dir/labmanager.cpp.obj	f00e068c9e2e1db9
+5751	6023	7617542018690469	TLabManager.exe	672b948d6edea5e3
